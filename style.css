@@ -1,0 +1,31 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    border: 1px solid gray;
+    border-radius: 4px;
+}
+#first{
+    margin: 7px;
+}
+
+
+.innerdiv{
+    display:inline-block;
+    
+    padding: 18px;
+
+    
+}
+
+.innerdiv-img{
+    height:40px; 
+    width:50px;
+    
+}
+.popup{
+    display: none;
+}
+
+
+

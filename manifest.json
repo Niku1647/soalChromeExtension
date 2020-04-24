@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    "name":"SOAL",
+    "description":"School of Acclerated Learning",
+    "version":"1.0",
+    "icons":{"128" : "0.png" },
+    "browser_action":{
+                        "default_icon": "0.png",
+                        "default_popup":"popup.html"
+                     },
+                     "permissions":["activeTab"]
+
+}
